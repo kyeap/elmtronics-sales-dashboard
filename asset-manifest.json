@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/sales-dashboard/static/js/main.3e9c8442.chunk.js",
+    "main.js.map": "/sales-dashboard/static/js/main.3e9c8442.chunk.js.map",
+    "runtime-main.js": "/sales-dashboard/static/js/runtime-main.8d207668.js",
+    "runtime-main.js.map": "/sales-dashboard/static/js/runtime-main.8d207668.js.map",
+    "static/js/2.7710e9c8.chunk.js": "/sales-dashboard/static/js/2.7710e9c8.chunk.js",
+    "static/js/2.7710e9c8.chunk.js.map": "/sales-dashboard/static/js/2.7710e9c8.chunk.js.map",
+    "static/js/3.f73e7260.chunk.js": "/sales-dashboard/static/js/3.f73e7260.chunk.js",
+    "static/js/3.f73e7260.chunk.js.map": "/sales-dashboard/static/js/3.f73e7260.chunk.js.map",
+    "index.html": "/sales-dashboard/index.html",
+    "static/js/2.7710e9c8.chunk.js.LICENSE.txt": "/sales-dashboard/static/js/2.7710e9c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d207668.js",
+    "static/js/2.7710e9c8.chunk.js",
+    "static/js/main.3e9c8442.chunk.js"
+  ]
+}
